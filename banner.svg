@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- banner.svg — monochrome AI network banner (electric green accent by default).
+     Save this as banner.svg in the repository root, next to README.md. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="1" stop-color="#050505"/>
+    </linearGradient>
+    <filter id="grain">
+      <feTurbulence baseFrequency="0.8" numOctaves="1" seed="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feBlend mode="overlay"/>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="100%" height="100%" fill="#050505"/>
+
+  <!-- faint particle field -->
+  <g fill="#A0A0A0" opacity="0.06">
+    <circle cx="60" cy="40" r="1"/><circle cx="120" cy="80" r="0.9"/><circle cx="200" cy="30" r="1.2"/>
+    <circle cx="280" cy="110" r="1"/><circle cx="360" cy="50" r="0.8"/><circle cx="440" cy="140" r="1"/>
+    <circle cx="520" cy="60" r="1.4"/><circle cx="600" cy="20" r="1"/><circle cx="680" cy="120" r="0.9"/>
+    <circle cx="760" cy="40" r="1"/><circle cx="840" cy="90" r="1.1"/><circle cx="920" cy="30" r="0.9"/>
+    <circle cx="1000" cy="130" r="1"/><circle cx="1080" cy="60" r="0.8"/>
+  </g>
+
+  <!-- data mountain (monochrome strokes) -->
+  <g transform="translate(0,40)" stroke="#222222" stroke-width="1.4" fill="none" opacity="0.75">
+    <path d="M0,200 L80,120 L160,160 L240,100 L320,140 L400,80 L480,160 L560,110 L640,150 L720,90 L800,140 L880,100 L960,160 L1040,120 L1120,180 L1200,140"/>
+  </g>
+
+  <!-- graph lines & nodes -->
+  <g stroke="#19FF6B" stroke-opacity="0.12" stroke-width="1.4" fill="#19FF6B" fill-opacity="0.08">
+    <line x1="80" y1="110" x2="200" y2="60"/>
+    <line x1="200" y1="60" x2="360" y2="140"/>
+    <line x1="360" y1="140" x2="520" y2="80"/>
+    <line x1="520" y1="80" x2="680" y2="130"/>
+    <line x1="680" y1="130" x2="840" y2="70"/>
+    <line x1="840" y1="70" x2="1000" y2="120"/>
+
+    <circle cx="80" cy="110" r="3.2" />
+    <circle cx="200" cy="60" r="3.2" />
+    <circle cx="360" cy="140" r="3.2" />
+    <circle cx="520" cy="80" r="3.2" />
+    <circle cx="680" cy="130" r="3.2" />
+    <circle cx="840" cy="70" r="3.2" />
+    <circle cx="1000" cy="120" r="3.2" />
+  </g>
+
+  <!-- pointcloud layer for depth -->
+  <g fill="#FFFFFF" opacity="0.02">
+    <circle cx="150" cy="200" r="2"/><circle cx="220" cy="190" r="1.2"/><circle cx="340" cy="210" r="1.6"/>
+    <circle cx="500" cy="195" r="1.1"/><circle cx="760" cy="205" r="1.3"/><circle cx="980" cy="190" r="1.4"/>
+  </g>
+
+  <!-- title block (technical UI style) -->
+  <g transform="translate(40,36)" font-family="monospace" fill="#FFFFFF" text-anchor="start">
+    <text x="0" y="24" font-size="22" font-weight="700">JUHAIM.MD</text>
+    <text x="0" y="48" font-size="14" fill="#A0A0A0">AI SYSTEMS ENGINEER</text>
+
+    <rect x="0" y="64" width="640" height="1" fill="#222222" opacity="0.8"/>
+    <text x="0" y="88" font-size="12" fill="#A0A0A0">Building intelligent systems that detect, reason, analyze, and act.</text>
+
+    <!-- small status chips -->
+    <g transform="translate(0,110)">
+      <rect x="0" y="0" rx="2" ry="2" width="120" height="22" fill="#000000" stroke="#222222" />
+      <text x="8" y="15" font-size="11" fill="#19FF6B">STATUS: BUILDING</text>
+
+      <rect x="140" y="0" rx="2" ry="2" width="160" height="22" fill="#000000" stroke="#222222" />
+      <text x="148" y="15" font-size="11" fill="#A0A0A0">FOCUS: AI SYSTEMS + AGENTIC AI</text>
+
+      <rect x="320" y="0" rx="2" ry="2" width="160" height="22" fill="#000000" stroke="#222222" />
+      <text x="328" y="15" font-size="11" fill="#A0A0A0">MODE: RESEARCH / BUILD / ITERATE</text>
+    </g>
+  </g>
+</svg>
