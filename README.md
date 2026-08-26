@@ -1,4 +1,4 @@
-# JUHAIM.MD
+# JUHAIM.
 AI SYSTEMS ENGINEER
 
 <!--
@@ -14,8 +14,8 @@ AI SYSTEMS ENGINEER
 </p>
 
 <pre style="background:#050505;color:#FFFFFF;padding:18px;border:1px solid #222222;border-radius:6px;font-family:monospace;line-height:1.3">
-JUHAIM.MD
-AI SYSTEMS ENGINEER
+JUHAIM.
+
 
 Building intelligent systems that detect, reason, analyze, and act.
 
