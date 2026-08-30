@@ -10,7 +10,7 @@
 Python · TypeScript · JavaScript · AI/ML · Cybersecurity · Cloud · Full-Stack
 
 <a href="https://github.com/Juhamim">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+security+systems;Exploring+AI+%C3%97+Cybersecurity;Engineering+intelligent+automation;Learning+by+building+real+systems;Researching+%C2%B7+Building+%C2%B7+Iterating" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+security+systems;Exploring+AI+%C3%97+Cybe[...]">
 </a>
 
 <br>
@@ -52,12 +52,6 @@ Python · TypeScript · JavaScript · AI/ML · Cybersecurity · Cloud · Full-St
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=GitHub%20Stats&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%">
-
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -87,6 +81,8 @@ Python · TypeScript · JavaScript · AI/ML · Cybersecurity · Cloud · Full-St
 </div>
 
 ## 👋 About Me
+
+<div align="left">
 
 ```typescript
 const juhaim = {
@@ -122,7 +118,11 @@ const juhaim = {
 };
 ```
 
+</div>
+
 ### 🧠 My Mission
+
+<div align="left">
 
 I'm exploring how **Artificial Intelligence can make cybersecurity systems more intelligent, adaptive, automated, and capable of understanding complex patterns.**
 
@@ -144,15 +144,19 @@ Intelligent Cyber Defense
 
 > **I don't want to only use AI — I want to understand how intelligent systems are engineered.**
 
+</div>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=70&section=header&text=Research%20Vector&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=70&section=header&text=Research%20Vector&fontSize=28&fontColor=fff&fontAlignY=65&animation=fade" width="100%">
 
 </div>
 
 ## 🔬 Research Vector
+
+<div align="left">
 
 | #    | Area                        | What I'm Exploring                              |
 | ---- | --------------------------- | ----------------------------------------------- |
@@ -164,15 +168,19 @@ Intelligent Cyber Defense
 | `06` | 💳 **Risk Intelligence**    | Transaction and merchant risk analysis          |
 | `07` | 🔎 **Intelligent Systems**  | Systems that detect → reason → act              |
 
+</div>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=70&section=header&text=Sentinel%20Mesh&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=70&section=header&text=Sentinel%20Mesh&fontSize=28&fontColor=fff&fontAlignY=65&animation=fade" width="100%">
 
 </div>
 
 # 🛡️ Sentinel Mesh
+
+<div align="left">
 
 ### **AI Risk Intelligence for Merchant Loss Prevention**
 
@@ -211,7 +219,11 @@ TRANSACTION SIGNALS
 └──────────────────────┘
 ```
 
+</div>
+
 ### Intelligence Layers
+
+<div align="left">
 
 * 🔍 Transaction Risk Detection
 * 💳 Chargeback Intelligence
@@ -220,9 +232,15 @@ TRANSACTION SIGNALS
 * 🧠 AI Risk Fusion
 * ⚡ Intelligent Prevention
 
+</div>
+
 ### Core Technology
 
+<div align="left">
+
 `Python` · `Machine Learning` · `Graph Intelligence` · `LLMs` · `FastAPI` · `React` · `PostgreSQL`
+
+</div>
 
 ### 🔗 Project
 
@@ -232,7 +250,7 @@ TRANSACTION SIGNALS
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=25,6,11&height=70&section=header&text=Technology%20Stack&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=25,6,11&height=70&section=header&text=Technology%20Stack&fontSize=28&fontColor=fff&fontAlignY=65&animation=fade" width="100%">
 
 </div>
 
@@ -250,46 +268,68 @@ TRANSACTION SIGNALS
 
 ### 💻 Languages
 
+<div align="left">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
+</div>
+
 ### 🌐 Web & Backend
+
+<div align="left">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
+</div>
+
 ### 🤖 AI / ML
+
+<div align="left">
 
 ![Python](https://img.shields.io/badge/AI%20%2F%20ML-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-412991?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF6B6B?style=for-the-badge)
 
+</div>
+
 ### ☁️ Cloud & DevOps
+
+<div align="left">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
 
+</div>
+
 ### 🗄️ Databases
+
+<div align="left">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=70&section=header&text=Featured%20Projects&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=70&section=header&text=Featured%20Projects&fontSize=28&fontColor=fff&fontAlignY=65&animation=fade" width="100%">
 
 </div>
 
 # 🚀 Featured Projects
+
+<div align="left">
 
 ### 🛡️ AI & Cybersecurity
 
@@ -319,17 +359,21 @@ TRANSACTION SIGNALS
 | 🧩 **HerMindMate**      | AI-oriented experimental application series | TypeScript |
 | 🧩 **HerMindMate Game** | Interactive experimental application        | TypeScript |
 
+</div>
+
 > **Note:** Projects are intentionally presented according to their current public repository state rather than overstating production readiness.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=70&section=header&text=Security%20%26%20SOC&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=70&section=header&text=Security%20%26%20SOC&fontSize=28&fontColor=fff&fontAlignY=65&animation=fade" width="100%">
 
 </div>
 
 # 🛡️ Security & SOC Projects
+
+<div align="left">
 
 My cybersecurity work focuses on **learning, experimentation, defensive thinking, detection and automation**.
 
@@ -354,25 +398,19 @@ style E fill:#FFD93D,color:#000
 style F fill:#4ECDC4,color:#000
 ```
 
-### Current Security Direction
-
-* 🔎 Threat Detection
-* 🛡️ SOC Operations
-* 🤖 Security Automation
-* 🧠 AI-assisted Analysis
-* 📊 Anomaly Detection
-* 🕸️ Graph-based Security Intelligence
-* ⚡ Automated Incident Workflows
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,20,25&height=70&section=header&text=What%20I'm%20Building&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,20,25&height=70&section=header&text=What%20I'm%20Building&fontSize=28&fontColor=fff&fontAlignY=65&animation=fade" width="100%">
 
 </div>
 
 # 💡 What I'm Building
+
+<div align="left">
 
 ```mermaid
 graph TB
@@ -407,9 +445,13 @@ style D fill:#4ECDC4,color:#000
 style E fill:#1A1B27,color:#fff
 ```
 
+</div>
+
 ---
 
 # 🧭 Engineering Approach
+
+<div align="left">
 
 ```text
                  ┌─────────────┐
@@ -441,6 +483,8 @@ style E fill:#1A1B27,color:#fff
                  └─────────────┘
 ```
 
+</div>
+
 ### My Principles
 
 > **Curiosity → Experimentation → Engineering → Iteration**
@@ -456,6 +500,8 @@ I believe the fastest way to understand a technology is to **build something rea
 </div>
 
 # 🗺️ 2026 Roadmap
+
+<div align="left">
 
 ```mermaid
 graph TB
@@ -491,7 +537,11 @@ style D fill:#4ECDC4,color:#000
 style E fill:#1A1B27,color:#fff
 ```
 
+</div>
+
 ### 🎯 Current Priorities
+
+<div align="left">
 
 * [x] Build real-world full-stack projects
 * [x] Explore AI-powered security systems
@@ -502,12 +552,16 @@ style E fill:#1A1B27,color:#fff
 * [ ] Expand cloud/DevOps expertise
 * [ ] Contribute more to open source
 
+</div>
+
 ---
 
 <details>
 <summary><h2 style="display:inline;">📚 Currently Learning</h2></summary>
 
 <br>
+
+<div align="left">
 
 ```text
 AI / ML
@@ -532,6 +586,8 @@ Engineering
 └── Full-Stack Development
 ```
 
+</div>
+
 </details>
 
 ---
@@ -541,11 +597,15 @@ Engineering
 
 <br>
 
+<div align="left">
+
 I enjoy exploring ideas across technology and using different domains to improve the way I think about engineering problems.
 
 **Curiosity areas:**
 
 `AI` · `Cybersecurity` · `Science` · `Systems` · `Technology` · `Automation`
+
+</div>
 
 </details>
 
@@ -571,7 +631,7 @@ I enjoy exploring ideas across technology and using different domains to improve
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&fontAlignY=75" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&fontAlignY=75..." width="100%">
 
 <br>
 
